@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/firstSpringProject.firstSpringProject.main.iml" filepath="$PROJECT_DIR$/.idea/modules/firstSpringProject.firstSpringProject.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice-parent.iml" filepath="$PROJECT_DIR$/.idea/microservice-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service.main.iml" />
     </modules>
   </component>
 </project>
